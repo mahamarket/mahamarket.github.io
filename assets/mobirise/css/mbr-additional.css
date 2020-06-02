@@ -1424,30 +1424,6 @@ section.lazy-placeholder:after {
     margin-left: 0 !important;
   }
 }
-.cid-s0l8Tyf9v6 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-s0l8Tyf9v6 .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-s0l8Tyf9v6 .section-text {
-  padding: 2rem 0;
-  color: #ffffff;
-}
-.cid-s0l8Tyf9v6 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s0l8Tyf9v6 .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-rV6aY9h0JO {
   padding-top: 15px;
   padding-bottom: 90px;
