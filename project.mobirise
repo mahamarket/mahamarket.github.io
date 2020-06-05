@@ -70,7 +70,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "https://mahamarket.in",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-168713797-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-168713797-1');\n</script>\n",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
